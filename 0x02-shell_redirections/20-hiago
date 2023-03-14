@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Hello, how are you?" | tr -d 'hH'
+$1 | tr -d 'hH'
